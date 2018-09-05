@@ -1,0 +1,44 @@
+Source: latte-dock
+Section: kde
+Priority: optional
+Maintainer: Zijung Chueh <i@zijung.me>
+Build-Depends:
+ cmake (>= 3.1~),
+ debhelper (>= 11),
+ extra-cmake-modules,
+ libkf5activities-dev,
+ libkf5archive-dev,
+ libkf5crash-dev,
+ libkf5declarative-dev,
+ libkf5iconthemes-dev,
+ libkf5newstuff-dev,
+ libkf5notifications-dev,
+ libkf5plasma-dev,
+ libkf5wayland-dev,
+ libkf5windowsystem-dev,
+ libkf5xmlgui-dev,
+ libqt5x11extras5-dev,
+ libsm-dev,
+ libxcb-util0-dev,
+ pkg-config,
+ pkg-kde-tools (>= 0.12),
+ qtbase5-dev,
+ qtdeclarative5-dev,
+Standards-Version: 4.1.3
+Homepage: https://github.com/psifidotos/Latte-Dock
+Vcs-Browser: https://github.com/psifidotos/Latte-Dock
+Vcs-Git: https://github.com/psifidotos/Latte-Dock.git
+
+Package: latte-dock
+Architecture: any
+Depends:
+ plasma-desktop,
+ plasma-pa,
+ plasma-workspace,
+ ${misc:Depends},
+ ${shlibs:Depends},
+Description: Dock based on plasma frameworks
+ Latte is a dock based on plasma frameworks that provides an elegant and
+ intuitive experience for your tasks and plasmoids. It animates it's
+ contents by using parabolic zoom effect and tries to be there only when
+ it is needed.
