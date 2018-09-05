@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2017-09-09 03:09+0200\n"
+"PO-Revision-Date: 2018-07-03 17:37\n"
+"Last-Translator: guoyunhebrave <guoyunhebrave@gmail.com>\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf5-trunk/messages/extragear-base/plasma_applet_org.kde."
+"latte.spacer.pot\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgid "Appearance"
+msgstr "外观"
+
+#: package/contents/ui/ConfigAppearance.qml:56
+#, kde-format
+msgid "Use pixels size, "
+msgstr "使用像素大小， "
+
+#: package/contents/ui/ConfigAppearance.qml:77
+#, kde-format
+msgid "Use percentage, "
+msgstr "使用百分比， "

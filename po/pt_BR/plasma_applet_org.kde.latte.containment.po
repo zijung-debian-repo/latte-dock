@@ -1,0 +1,56 @@
+# Translation of plasma_applet_org.kde.latte.containment.po to Brazilian Portuguese
+# Copyright (C) 2018 This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2018.
+# André Marcelo Alvarenga <alvarenga@kde.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.latte.containment\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-05-01 03:23+0200\n"
+"PO-Revision-Date: 2018-06-24 11:24-0300\n"
+"Last-Translator: André Marcelo Alvarenga <alvarenga@kde.org>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_br@kde.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: package/contents/ui/applet/AppletItem.qml:570
+#, kde-format
+msgid "Launchers Area"
+msgstr "Área dos lançadores"
+
+#: package/contents/ui/ConfigOverlay.qml:415
+#, kde-format
+msgid "Justify Splitter"
+msgstr "Justificar separador"
+
+#: package/contents/ui/ConfigOverlay.qml:460
+#, kde-format
+msgid "Configure applet"
+msgstr "Configurar miniaplicativo"
+
+#: package/contents/ui/ConfigOverlay.qml:488
+#, kde-format
+msgid "Lock/Unlock the parabolic effect for this applet"
+msgstr "Bloquear/desbloquear o efeito parabólico para este miniaplicativo"
+
+#: package/contents/ui/ConfigOverlay.qml:500
+#, kde-format
+msgid "Remove applet"
+msgstr "Remover miniaplicativo"
+
+#: package/contents/ui/Ruler.qml:44
+#, kde-format
+msgctxt "maximum length tooltip, %0% is maximum length percentage"
+msgid "You can use mouse wheel to change maximum length of %0%"
+msgstr "Use a roda do mouse para alterar o comprimento máximo do %0%"
+
+#: package/contents/ui/Ruler.qml:306
+#, kde-format
+msgid "Maximum Length"
+msgstr "Comprimento máximo"

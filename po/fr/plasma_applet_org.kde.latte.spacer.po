@@ -1,0 +1,33 @@
+# Simon Depiets <sdepiets@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.latte.spacer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2017-09-09 03:09+0200\n"
+"PO-Revision-Date: 2018-06-05 17:11+0800\n"
+"Last-Translator: Simon Depiets <sdepiets@gmail.com>\n"
+"Language-Team: French <kde-francophone@kde.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: package/contents/config/config.qml:27
+#, kde-format
+msgid "Appearance"
+msgstr "Apparence"
+
+#: package/contents/ui/ConfigAppearance.qml:56
+#, kde-format
+msgid "Use pixels size, "
+msgstr "Utiliser la taille des pixels, "
+
+#: package/contents/ui/ConfigAppearance.qml:77
+#, kde-format
+msgid "Use percentage, "
+msgstr "Utiliser un pourcentage, "
